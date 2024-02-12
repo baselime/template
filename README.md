@@ -1,2 +1,3 @@
-# pino-transport
-Ship logs from pino.js to baselime
+# Ultimate Typescript Repository Template
+
+Ship amazing typescript libraries direct to NPM
